@@ -11,7 +11,7 @@ Conteúdo referente ao display 1602 / 16x2 => https://www.lojamekanus.com.br/det
 
  1) Scroll lateral ou rolagem de texto - Sketch para testar o recurso de rolagem de tela criando um efeito de "texto infinito" exibido no display 16x2. A ideia aqui é exibir um conteúdo superior ao limite máximo de exibição simultânea de 16 caracteres do display => https://github.com/mekanus/Display1602/blob/main/ScrollTextTest.ino
  
-  Video do resultado: https://youtu.be/Abhk1iEMe88
+      Video do resultado: https://youtu.be/Abhk1iEMe88
   
-  Montagem do circuito: https://github.com/mekanus/Display1602/blob/main/Display1602_I2C.JPG
+      Montagem do circuito: https://github.com/mekanus/Display1602/blob/main/Display1602_I2C.JPG
   
